@@ -1,0 +1,32 @@
+From: "PayPal Security" <security@paypaI-support.com>
+To: user@example.com
+Subject: Urgent: Your PayPal Account Has Been Limited
+Date: Tue, 12 Dec 2024 09:14:22 -0500
+Message-ID: <20241212091422.12345@mail.paypaI-support.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Received: from unknown (HELO mail.paypaI-support.com) (185.234.219.88)
+    by mail.example.com with SMTP;
+    Tue, 12 Dec 2024 09:14:24 -0500
+
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We noticed unusual activity on your PayPal account.</p>
+
+<p>Your account has been <strong>temporarily limited</strong>. To restore full access, please verify your information immediately.</p>
+
+<p>
+<a href="http://paypal-verification-secure[.]com/login">
+Verify Your Account
+</a>
+</p>
+
+<p>If you do not verify within 24 hours, your account will remain restricted.</p>
+
+<p>Thank you,<br>
+PayPal Security Team</p>
+
+</body>
+</html>
